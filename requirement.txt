@@ -1,26 +1,8 @@
-# Core Python Libraries
-numpy
-pandas
-
-# PDF Processing
 pdfplumber
-
-# OCR
 pytesseract
-Pillow==9.5.0
-
-# Image Processing
-opencv-python-headless==4.5.5.64
-
-# Embeddings
+Pillow
+opencv-python-headless
 sentence-transformers
-
-# Vector Search
 faiss-cpu
-
-# LLM (Local)
 transformers
 accelerate
-
-# Visualization
-matplotlib
