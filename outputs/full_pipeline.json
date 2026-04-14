@@ -1,0 +1,9 @@
+{
+    "query": "What is the total amount?",
+    "retrieved_chunks": [
+        "Amount in Words  ",
+        "Sub Total 86,000.00",
+        "Total Amount (INR) 1,01,480.00 Terms & Conditions"
+    ],
+    "final_answer": "\n  Answer the following question based on the context.\n  Context:\n  Amount in Words  \nSub Total 86,000.00\nTotal Amount (INR) 1,01,480.00 Terms & Conditions\n  Question:\n  What is the total amount?\n  "
+}

@@ -1,0 +1,5 @@
+Query: What is the total amount?
+
+Amount in Words  
+Sub Total 86,000.00
+Total Amount (INR) 1,01,480.00 Terms & Conditions
